@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+bin
+include
+lib
+pyvenv.cfg
+share
